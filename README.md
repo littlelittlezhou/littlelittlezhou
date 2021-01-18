@@ -24,3 +24,6 @@ I appreciate it sending me your valuable views! THX
 
 All right,go ahead!
          2021.1.18
+        
+情感proj是整个项目
+其中核心部分就是dataRroProcess_copy_cpoy.py
