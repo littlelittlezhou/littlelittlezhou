@@ -27,3 +27,9 @@ All right,go ahead!
         
 情感proj是整个项目
 其中核心部分就是dataRroProcess_copy_cpoy.py
+最后附上一个word文档，记录下一些重要的步骤(主要是讲解实现思想)
+
+
+
+参考文献：
+https://www.cnblogs.com/hygge-98-areas/p/13971269.html
