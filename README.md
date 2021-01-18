@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to littlelittlezhou' Git!I'm littlelittlezhou.
+I'm Hygge @Chou from Hunan Province, China Mainland.By the way,the reason that I seem to stress "Mainland" is Not something, clearly indicating Taiwan is the CN.
+
+It's not my first decision that I wanna join Git, yet it's the day I' m in. There's saying that goes "First Step, Good beginning!(translated by myself!)".Anyway,I want to be one of you guys,hoping it's a ladder to climb to my goals,and sincerely learn something from you! 
+
+I appreciate it sending me your valuable views! THX
+
+All right,go ahead!
+         2021.1.18
