@@ -29,7 +29,9 @@ All right,go ahead!
 其中核心部分就是dataRroProcess_copy_cpoy.py
 最后附上一个word文档，记录下一些重要的步骤(主要是讲解实现思想)
 
-
+其他资源：链接：https://pan.baidu.com/s/1WKv-8_B7cv7w_nBlThVEbA 
+提取码：f787 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 
 参考文献：
 https://www.cnblogs.com/hygge-98-areas/p/13971269.html
